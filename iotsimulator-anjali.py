@@ -49,8 +49,8 @@ for counter in range(0, numMsgs):
 
   ##### TODO 2: Change or add your project random variables
   # Generate random floating point numbers
-  randPrecipitation = round(random.uniform(0.1, 10.0), 1)
-  randSpeed = round(random.uniform(1, 10.0), 1)
+  randPrecipitation = round(random.uniform(1.0, 10.0), 1)
+  randSpeed = round(random.uniform(1.0, 10.0), 1)
   #randPressure = round(random.uniform(25.0, 35.0), 1)
 
   ##### TODO 3: Change or add your project data keys equal to 
