@@ -4,7 +4,7 @@ from __future__ import print_function
 import json
 import sys
 import datetime
-#import random
+import random
 import string
 
 guid = {}
